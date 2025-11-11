@@ -262,10 +262,6 @@ We're looking for:
 - Do you focus on what matters to the business?
 - Are your recommendations actionable?
 
-**Pragmatism:**
-- Do you deliver working solutions, not just ideas?
-- Do you consider constraints (time, cost, data availability)?
-- Do you acknowledge limitations honestly?
 
 ---
 
