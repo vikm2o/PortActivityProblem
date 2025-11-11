@@ -176,8 +176,6 @@ Design the production ML system that will power this platform.
 
 **Non-Functional:**
 - Handle 200 ports initially, scale to 1,000 ports
-- Serve 10,000+ API requests per day
-- 99.9% uptime SLA
 - Data freshness: forecasts updated by 6 AM daily
 - Must be cost-effective (the company is watching burn rate)
 
